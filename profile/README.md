@@ -4,7 +4,7 @@ This GitHub organization is the recommended place to host repositories for softw
 SMD-funded software should be released under a permissive license, such as MIT or GPL-3.0.
 
 ## For access:
-Contact Dr. Sarah Noble at sarah.noble-1@nasa.gov to request access.
+Contact Dr. Megan Ansdell at megan.c.ansdell@nasa.gov to request access.
 
 ## For helpful information and resources:
 Visit the NASA Transform to Open Science (TOPS) repo: 
