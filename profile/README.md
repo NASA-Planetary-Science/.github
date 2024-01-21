@@ -3,7 +3,7 @@
 The NASA Planetary Science GitHub is the recommended repository for software developed through research projects funded by NASA's Planetary Science Division (PSD) within its Science Mission Directorate (SMD), especially research projects under [ROSES](https://science.nasa.gov/researchers/sara/grant-solicitations) Appendix C.1.
 
 ## For access:
-Contact Dr. Megan Ansdell at megan.c.ansdell@nasa.gov to request access, which provides researchers with the ability to create a repository for their software.
+Contact Dr. KC Hansen at kenneth.c.hansen@nasa.gov to request access, which provides researchers with the ability to create a repository for their software.
 
 ## Requirements & Resources
 
